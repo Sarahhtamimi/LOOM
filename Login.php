@@ -11,6 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <body>
         <h1>hello<h1>
         <?php
+        echo "hi";
         // put your code here
         ?>
     </body>
